@@ -7,7 +7,7 @@ local beautiful = require("beautiful")
 function set_wallpaper(s)
   -- Wallpaper
   if beautiful.wallpaper then
-    local wallpaper = beautiful.wallpaper
+    local wallpaper = os.getenv("HOME") .. "/.config/awesome/decorations/resources/wallpapers/wall.png"
     -- If wallpaper is a function, call it with the screen
     if type(wallpaper) == "function" then
       wallpaper = wallpaper(s)
