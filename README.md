@@ -47,7 +47,17 @@ El objectiu és crear un entorn lleuger, funcional i visualment atractiu. 🎨
 -- Error handling
 require("main.error-handling")
 ```
-
+--
+## Diccionari
+### MAIN
+#### Layout
+    Distribució dels panells
+#### Tag
+    Work space
+#### Menu
+    Desplegable Click dret
+#### Rules
+    -- No sé
 ------
 
 ## ✨ Característiques
