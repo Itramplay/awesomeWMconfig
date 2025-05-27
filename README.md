@@ -16,6 +16,32 @@ El objectiu és crear un entorn lleuger, funcional i visualment atractiu. 🎨
 
 ---
 
+# Estructura Main
+
+├── binding
+│   ├── bindtotags.lua
+│   ├── clientbuttons.lua
+│   ├── clientkeys.lua
+│   ├── globalbuttons.lua
+│   └── globalkeys.lua
+├── deco
+│   ├── statusbar.lua
+│   ├── taglist.lua
+│   ├── tasklist.lua
+│   ├── titlebar.lua
+│   └── wallpaper.lua
+├── main
+│   ├── error-handling.lua
+│   ├── layouts.lua
+│   ├── menu.lua
+│   ├── rules.lua
+│   ├── signals.lua
+│   ├── tags.lua
+│   └── user-variables.lua
+└── rc.lua
+
+------
+
 ## ✨ Característiques
 
 ### 🧩 Widgets
