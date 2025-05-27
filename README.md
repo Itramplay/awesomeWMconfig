@@ -40,6 +40,14 @@ El objectiu és crear un entorn lleuger, funcional i visualment atractiu. 🎨
 │   └── user-variables.lua
 └── rc.lua
 
+## How to add library
+
+```bash
+
+-- Error handling
+require("main.error-handling")
+```
+
 ------
 
 ## ✨ Característiques
