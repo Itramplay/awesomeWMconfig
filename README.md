@@ -53,6 +53,8 @@ Modifica els widgets a la carpeta widgets/:
 - Afegeix nous indicadors.
 - Canvia mides/colors als fitxers de tema.
 
+---
+
 ## 🤝 Agraiments
 - Luca CPZ
  - - https://github.com/lcpz/awesome-copycats
@@ -63,9 +65,13 @@ Modifica els widgets a la carpeta widgets/:
 - MAKC
  - - https://www.youtube.com/watch?v=nC_e8Gw1XlA&t=844s
 
+---
+
 ## 📜 Llicència
 Aquesta configuració sota LICÈNCIA MIT.
 Part del codi adaptat dels awesome-copycats (també MIT).
+
+---
 
 ## Fet amb molt de café per Martí ☕️
 
